@@ -1,0 +1,42 @@
+ocorrencia,grupo
+hom_doloso,VÍTIMAS DE CRIMES VIOLENTOS
+lesao_corp_morte,VÍTIMAS DE CRIMES VIOLENTOS
+latrocinio,VÍTIMAS DE CRIMES VIOLENTOS
+hom_por_interv_policial,VÍTIMAS DE CRIMES VIOLENTOS
+tentat_hom,VÍTIMAS DE CRIMES VIOLENTOS
+lesao_corp_dolosa,VÍTIMAS DE CRIMES VIOLENTOS
+estupro,VÍTIMAS DE CRIMES VIOLENTOS
+hom_culposo,VÍTIMAS DE CRIMES DE TRÂNSITO
+lesao_corp_culposa,VÍTIMAS DE CRIMES DE TRÂNSITO
+roubo_comercio,ROUBOS
+roubo_residencia,ROUBOS
+roubo_veiculo,ROUBOS
+roubo_carga,ROUBOS
+roubo_transeunte,ROUBOS
+roubo_em_coletivo,ROUBOS
+roubo_banco,ROUBOS
+roubo_cx_eletronico,ROUBOS
+roubo_celular,ROUBOS
+roubo_conducao_saque,ROUBOS
+roubo_bicicleta,ROUBOS
+furto_veiculos,FURTOS
+furto_bicicleta,FURTOS
+furto_transeunte,FURTOS
+furto_coletivo,FURTOS
+furto_celular,FURTOS
+sequestro,OUTROS REGISTROS DE CRIMES CONTRA O PATRIMÔNIO
+extorsao,OUTROS REGISTROS DE CRIMES CONTRA O PATRIMÔNIO
+sequestro_relampago,OUTROS REGISTROS DE CRIMES CONTRA O PATRIMÔNIO
+estelionato,OUTROS REGISTROS DE CRIMES CONTRA O PATRIMÔNIO
+apreensao_drogas,ATIVIDADE POLICIAL
+recuperacao_veiculos,ATIVIDADE POLICIAL
+cmp,ATIVIDADE POLICIAL
+apf,ATIVIDADE POLICIAL
+aaapai,ATIVIDADE POLICIAL
+cmba,ATIVIDADE POLICIAL
+ameaca,OUTROS REGISTROS
+pessoas_desaparecidas,OUTROS REGISTROS
+encontro_cadaver,OUTROS REGISTROS
+encontro_ossada,OUTROS REGISTROS
+pol_militares_mortos_serv,OUTROS REGISTROS
+pol_civis_mortos_serv,OUTROS REGISTROS
